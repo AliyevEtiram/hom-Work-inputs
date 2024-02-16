@@ -1,0 +1,11 @@
+*{
+    margin: 8px;
+}
+
+#container{
+    display: flex;
+}
+
+#info{
+    resize: none;
+}
